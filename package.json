@@ -1,6 +1,6 @@
 {
   "name": "create-shivam-backend",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A CLI tool to quickly scaffold an Express + MongoDB backend project.",
   "bin": {
     "create-shivam-backend": "index.js"
