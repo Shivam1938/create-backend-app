@@ -1,6 +1,6 @@
 {
   "name": "create-shivam-backend",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A CLI tool to quickly scaffold an Express + MongoDB backend project.",
   "bin": {
     "create-shivam-backend": "index.js"
@@ -9,11 +9,22 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "backend",
+    "nodejs",
+    "express",
+    "mongodb",
+    "cli",
+    "scaffold",
+    "create-app",
+    "shivam",
+    "mern",
+    "api"
+  ],
+  "author": "Shivam <your-email@example.com>",
   "license": "ISC",
   "type": "module",
   "dependencies": {
-    "chalk": "^5.6.2"
+    "chalk":"^5.6.2"
   }
 }
